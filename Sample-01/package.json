@@ -16,7 +16,7 @@
     "cypress:open": "cypress open"
   },
   "dependencies": {
-    "@auth0/nextjs-auth0": "^1.9.2",
+    "@auth0/nextjs-auth0": "^2.0.0-beta.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
@@ -29,7 +29,7 @@
     "highlight.js": "^11.6.0",
     "jwks-rsa": "^2.1.5",
     "morgan": "^1.10.0",
-    "next": "^12.3.0",
+    "next": "^12.3.2",
     "nodemon": "^2.0.19",
     "react": "17.0.2",
     "react-dom": "17.0.2",
